@@ -1,4 +1,7 @@
-.DEFAULT_GOAL := ci
+.DEFAULT_GOAL := build
+
+build:
+	go build ./cmd/json2ssm
 
 ci: install lint test
 

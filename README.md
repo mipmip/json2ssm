@@ -130,6 +130,12 @@ brew install json2ssm
 go get github.com/b-b3rn4rd/json2ssm
 ```
 
+*Build*
+
+```bash
+make build
+```
+
 Usage
 =============
 ```bash
