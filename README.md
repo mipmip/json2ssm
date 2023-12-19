@@ -1,4 +1,4 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/b-b3rn4rd/json2ssm)](https://goreportcard.com/report/github.com/b-b3rn4rd/json2ssm)  [![Build Status](https://travis-ci.org/b-b3rn4rd/gocfn.svg?branch=master)](https://travis-ci.org/b-b3rn4rd/json2ssm) JSON import/export functions with AWS SSM Parameter Store
+[![Go Report Card](https://goreportcard.com/badge/github.com/mipmip/json2ssm)](https://goreportcard.com/report/github.com/mipmip/json2ssm) JSON import/export functions with AWS SSM Parameter Store
 ================================================
 *json2ssm* - provides JSON import, export and delete functionality when working with AWS SSM parameter store while keeping original data types.
 
